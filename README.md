@@ -20,7 +20,7 @@ Or install it yourself as:
 
   tcx_reader accept a file as argument or a string.
 
-  To read a tcx file just call @tcx = TCXReader::TcX.new(file) or @tcx = TCXReader::Tcx.new(string)
+  To read a tcx file just call @tcx = TCXReader::Tcx.new(file) or @tcx = TCXReader::Tcx.new(string)
 
   Then use it as follow:
 
