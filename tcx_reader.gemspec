@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = TcxReader::VERSION
   spec.authors       = ["Nicolas Aguttes"]
   spec.email         = ["nicolas.aguttes@gmail.com"]
-  spec.name          = "tpx_reader"
+  spec.name          = "tcx_reader"
   spec.version       = TcxReader::VERSION
   spec.authors       = ["Nicolas Aguttes"]
   spec.email         = ["nicolas.aguttes@gmail.com"]
